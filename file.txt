@@ -1,1 +1,2 @@
 master branch text
+new_branch text
